@@ -197,9 +197,8 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  display: flex;
-  justify-content: center;
-  padding: 0 100px 0 80px;
+  margin: 100px auto 80px auto;
+  align-items: center;
 }
 
 .form__label {
