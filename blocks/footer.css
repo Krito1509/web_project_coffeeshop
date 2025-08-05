@@ -57,9 +57,10 @@
   width: 16px;
   gap: 10px;
   text-decoration: none;
+  transition: color #fff;
 }
 .footer__social-link:hover {
-  transition: #c1c1c1;
+  color: #c1c1c1;
 }
 
 .footer__social-item {

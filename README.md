@@ -21,14 +21,15 @@ Este proyecto consiste en el desarrollo de un sitio web para una cafetería, imp
 - **Pie de página funcional y estético**  
   Contiene el logo de la cafetería, enlaces relevantes y accesos a redes sociales.
 
-- **Código organizado y escalable**  
+- **Código organizado**  
   El CSS se estructura usando BEM para mantener una arquitectura clara, reutilizable y fácil de mantener.
 
 ## 🛠️ Tecnologías y técnicas utilizadas
 
-- **HTML5:** Para la estructura semántica del contenido.
-- **CSS3:** Para el diseño visual del sitio, incluyendo animaciones, responsividad y estilo personalizado.
-- **Metodología BEM (Block Element Modifier):** Para una escritura CSS organizada, modular y escalable.
-- **Responsive Design:** Mediante el uso de `media queries` para adaptar el diseño a distintos dispositivos (móvil, tablet, escritorio).
-- **Flexbox y Grid:** Para la distribución flexible y responsiva de elementos.
-- **Fuentes Web (Google Fonts):** Se utilizó la tipografía `Inter` para una apariencia moderna y legible.
+- **HTML** Para la estructura semántica del contenido.
+- **CSS** Para el diseño visual del sitio, incluyendo animaciones, responsividad y estilo personalizado.
+- **Metodología BEM :** Para una escritura CSS organizada, modular y escalable.
+- - **Flexbox :** Para la distribución flexible y responsiva de elementos.
+- **Fuentes Web (Google Fonts):** Se utilizó la tipografía `Inter y Noto Serif` para una apariencia moderna y legible.
+
+-**Plan de mejora:** Una experiencia cómoda para el usuario, puedes ser tomar su pedido en línea, donde pueda ver el menu y sus precios, además de adicionar un carrito de compras, donde pueda seleccionar y personalizar su orden, lo que permitirá un entorno más profesional para el cliente.
